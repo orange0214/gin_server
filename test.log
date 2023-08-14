@@ -1,1 +1,2 @@
-{"level":"info","ts":1691649939.089943,"msg":"server run success on ","address":":8888"}
+{"level":"info","ts":1691996189.2285843,"msg":"server run success on ","address":":8888"}
+{"level":"error","ts":1691997459.6177986,"msg":"登录失败！用户名不存在或密码错误！","error":"db not init"}
